@@ -1,0 +1,63 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library
+/Library
+Library/
+/Library
+Library
+Library/metadata
+Library/ScriptAssemblies
+Assets/GoldenZebra/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+<<<<<<< HEAD
+Library/metadata/0a/0a74f2b0d5846425785bc749a7061848
+
+Library/assetDatabase3
+
+Library/assetDatabase3
+
+Library/metadata/0a/0a74f2b0d5846425785bc749a7061848
+=======
+*.log
+
+*.dll
+
+*.mdb
+
+Library/metadata/00/0000000000000000b000000000000000
+
+Library/expandedItems
+
+Library/CurrentLayout.dwlt
+>>>>>>> master
+
+Library/assetDatabase3
