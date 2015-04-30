@@ -53,9 +53,10 @@ public class ParticleSea : MonoBehaviour {
 
 	public void Spacing(float spacing) {
 		hasAnythingChanged = true;
-		if(spacing > 0f)
+		if(spacing > 0f) {
 			x_meshSpacing = spacing;
 			y_meshSpacing = spacing;
+        }
 	}
 
 	public void Render(bool isActive) {
@@ -99,6 +100,7 @@ public class ParticleSea : MonoBehaviour {
 		particleSystem.maxParticles = x_meshResolution * y_meshResolution;
 		particlesText.text = "Particles count: "+(y_meshResolution * y_meshResolution).ToString();
 		hasAnythingChanged = true;
+		
 	}
 
 	void Start() {
