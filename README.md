@@ -1,7 +1,7 @@
 # Particle Sea made in Unity3D
 
-![alt tag](http://178.62.85.147/wp-content/uploads/2015/04/waves.gif)
+![Animation](https://cdn-images-1.medium.com/max/1600/0*LQwjcAyAPfDYtjxv.gif)
 
-Repository for this small tutorial: http://unreferencedinstance.com/tutorial-particle-sea-in-unity3d/
+Repository for this small tutorial: https://medium.com/@rafalwilinski/tutorial-particle-sea-in-unity3d-70ff1350fa9e#.a2obqtys6
 
 Simple usage of animated Perlin Noise and particle effects.
